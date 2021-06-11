@@ -1,0 +1,12 @@
+main:
+  ☐ Title
+  ☐ Header
+  ☐ Banner (sub title)
+  ☐ Pictures
+  ☐ 5 paragraphs about "Fall guys" game
+
+classes:
+  ✔ "ivan" - for 5 paragraphs of text @done(21-06-03 20:14)
+  ✔ "header" - for the header @done(21-06-03 20:14)
+  ☐ "banner" - for sub title
+  ☐ "photo" - for pictures
